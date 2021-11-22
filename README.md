@@ -14,7 +14,7 @@
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at Britannica End</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Enageg</i></li>
+<li> 💔 <i>Born Engage</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
  
