@@ -1,9 +1,9 @@
 
 <!-- Github README -->
 <p align="center"><a href="https://github.com/CLB-09">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CLB-09&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
    
-<a href="https://github.com/CLB-09"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/CLB-09"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLB-09&layout=compact&theme=react&hide_border=true" />
 </a></p>
  
 <h2><b><i>Howdy , it's CLB-09 👋</i></b></h2>
