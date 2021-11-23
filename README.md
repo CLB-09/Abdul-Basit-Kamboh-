@@ -32,10 +32,7 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/CLB-09"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=CLB-09&color=blueviolet&style=flat-square"></a>
  
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/CLB-09"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/A.BASIT.KAMBOH.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/A.BASIT.KAMBOH.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/a.b_a_s_i_t___a_l_i_y_a_n__h_j"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
- 
- 
+## Find Me on :
+[![Github](https://img.shields.io/badge/Github-CLB--09-green?style=for-the-badge&logo=github)](https://github.com/CLB-09)
+[![Instagram](https://img.shields.io/badge/IG-%40a.b_a_s_i_t___a_l_i_y_a_n__h_j-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/a.b_a_s_i_t___a_l_i_y_a_n__h_j)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/A.BASIT.KAMBOH)
