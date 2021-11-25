@@ -1,4 +1,19 @@
 <!-- Github README -->
+
+<p align="left">
+<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<p align="center">
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
+<a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
+<a href="https://github.com/CLB-09/followers"><img title="Followers" src="https://img.shields.io/github/followers/CLB-09?color=blue&style=flat-square"></a>
+<a href="https://github.com/CLB-09/track-ip/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/CLB-09/track-ip?color=red&style=flat-square"></a>
+<a href="https://github.com/CLB-09/track-ip/network/members"><img title="Forks" src="https://img.shields.io/github/forks/CLB-09/track-ip?color=red&style=flat-square"></a>
+<a href="https://github.com/CLB-09/track-ip/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CLB-09/track-ip?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+
 <p align="center"><a href="https://github.com/CLB-09">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=CLB-09&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
    
@@ -49,8 +64,6 @@
 </p>
 
 
-
-
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇵🇰 <i>Resident of Pakistan</i></li>
 <li> 😇 <i>Muslim</i></li>
@@ -60,13 +73,6 @@
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
  
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/CLB-09/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/CLB-09/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/CLB-09/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/CLB-09/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/CLB-09"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CLB-09&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
