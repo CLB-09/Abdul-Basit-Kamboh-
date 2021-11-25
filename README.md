@@ -22,43 +22,43 @@
 <b><i>💻 I'm a Shop Kipper Ladies Clothes</i></b>
 
 <p align="center">
-<img width="47%" src="src/B612_20211026_224517_347.jpg"/>
+<img width="50%" src="src/B612_20211026_224517_347.jpg"/>
 
-<img width="40%" src="src/FB_IMG_1564401174856.jpg"/> 
+<img width="50%" src="src/FB_IMG_1564401174856.jpg"/> 
 
-<img width="47%" src="src/FB_IMG_1632865348654.jpg"/>
+<img width="50%" src="src/FB_IMG_1632865348654.jpg"/>
 
-<img width="47%" src="src/FB_IMG_1632865365791.jpg"/>
+<img width="50%" src="src/FB_IMG_1632865365791.jpg"/>
 
-<img width="47%" src="src/IMG_20211001_172847.jpg"/>
+<img width="50%" src="src/IMG_20211001_172847.jpg"/>
 
-<img width="47%" src="src/IMG_20211011_172544_656.jpg"/>
+<img width="50%" src="src/IMG_20211011_172544_656.jpg"/>
 
-<img width="47%" src="src/IMG_20211011_172544_678.jpg"/>
+<img width="50%" src="src/IMG_20211011_172544_678.jpg"/>
 
-<img width="47%" src="src/PicsArt_09-28-03.19.53.jpg"/>
+<img width="50%" src="src/PicsArt_09-28-03.19.53.jpg"/>
 
-<img width="47%" src="src/PicsArt_10-17-03.38.10.jpg"/>
+<img width="50%" src="src/PicsArt_10-17-03.38.10.jpg"/>
 
-<img width="47%" src="src/PicsArt_21-10-26_22-53-00-591.jpg"/>
+<img width="50%" src="src/PicsArt_21-10-26_22-53-00-591.jpg"/>
 
-<img width="47%" src="src/PicsArt_21-11-02_02-25-12-596.jpg"/>
+<img width="50%" src="src/PicsArt_21-11-02_02-25-12-596.jpg"/>
 
-<img width="47%" src="src/Snapchat-1035004743.jpg"/>
+<img width="50%" src="src/Snapchat-1035004743.jpg"/>
 
-<img width="47%" src="src/Snapchat-1353345931.jpg"/>
+<img width="50%" src="src/Snapchat-1353345931.jpg"/>
 
-<img width="47%" src="src/Snapchat-1754969058.jpg"/>
+<img width="50%" src="src/Snapchat-1754969058.jpg"/>
 
-<img width="47%" src="src/Snapchat-1761384633.jpg"/>
+<img width="50%" src="src/Snapchat-1761384633.jpg"/>
 
-<img width="47%" src="src/Snapchat-1911495809.jpg"/>
+<img width="50%" src="src/Snapchat-1911495809.jpg"/>
 
-<img width="47%" src="src/Snapchat-254553157.jpg"/>
+<img width="50%" src="src/Snapchat-254553157.jpg"/>
 
-<img width="47%" src="src/Snapchat-370131057.jpg"/>
+<img width="50%" src="src/Snapchat-370131057.jpg"/>
 
-<img width="47%" src="src/Snapchat-766332371.jpg"/>
+<img width="100%" src="src/Snapchat-766332371.jpg"/>
 </p>
 
 
