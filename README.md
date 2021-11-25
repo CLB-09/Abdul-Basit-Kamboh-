@@ -30,7 +30,7 @@
 
 <img width="50%" src="src/FB_IMG_1632865365791.jpg"/>
 
-<img width="50%" src="src/IMG_20211001_172847.jpg"/>
+<img width="100%" src="src/IMG_20211001_172847.jpg"/>
 
 <img width="50%" src="src/IMG_20211011_172544_656.jpg"/>
 
@@ -44,7 +44,7 @@
 
 <img width="50%" src="src/PicsArt_21-11-02_02-25-12-596.jpg"/>
 
-<img width="50%" src="src/Snapchat-1035004743.jpg"/>
+<img width="100%" src="src/Snapchat-1035004743.jpg"/>
 
 <img width="50%" src="src/Snapchat-1353345931.jpg"/>
 
