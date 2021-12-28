@@ -3,6 +3,11 @@
 <p align="center">
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
+
+<p align="center">
+ 
+<img src="https://i.pinimg.com/originals/16/62/ac/1662acee2dae9125798c9d54a6530333.gif">
+ 
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
@@ -12,6 +17,7 @@
 <a href="https://github.com/CLB-09/track-ip/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/CLB-09/track-ip?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
+<h1 align="center">(CLB-09 BRAND)</h1>
 <p align="center"><a href="https://github.com/CLB-09">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=CLB-09&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
    
