@@ -1,5 +1,6 @@
 <p align="left">
-<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MADE IN PAKISTAN" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MADE IN MUSLIM" src="https://img.shields.io/badge/MADE%20IN-MUSLIM-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
@@ -74,7 +75,7 @@
 <li> 😐 <i>Studying at Britannica End</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💞 <i>Born Engage</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
+<li> 🐍 <i>Trying to learn Python & HTML</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
  
  
