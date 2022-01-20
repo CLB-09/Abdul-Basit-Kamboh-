@@ -68,6 +68,17 @@
 <img width="100%" src="src/Snapchat-766332371.jpg"/>
 </p>
 
+<img width="50%" src="src/Snapchat-1867191008.jpg."/>
+</p>
+
+<img width="100%" src="src/Snapchat-1776684485.jpg"/>
+</p>
+
+<img width="150%" src="src/Snapchat-2033630241.jpg"/>
+</p>
+
+<img width="100%" src="src/FB_IMG_1642539227291.jpg"/>
+</p>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇵🇰 <i>Resident of Pakistan</i></li>
